@@ -1,0 +1,2 @@
+5V in PIN_AA2
+Signal in PIN_BB2

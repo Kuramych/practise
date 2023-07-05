@@ -1,0 +1,2 @@
+VCC in PIN_AA2
+Signal in PIN_BB1

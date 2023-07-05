@@ -1,0 +1,1 @@
+VCC in PIN_AA2
